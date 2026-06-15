@@ -2,7 +2,7 @@ This project delves into the language of the Grappler Baki Japanese manga throug
 
 The culmination of this work can be found in the attached blog post in the link below.
 
-[View Blog]([doc/blog.html](https://andrewnemkov27.github.io/Manga_Linguistic_Analysis-capstone/doc/blog.html))
+[View Blog](https://andrewnemkov27.github.io/Manga_Linguistic_Analysis-capstone/doc/blog.html)
 
 For easier file management, my entire project contains a (0)-test file, a (1)-main file, a doc file, a result file, and a README.md file. 
 
